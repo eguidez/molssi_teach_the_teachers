@@ -1,6 +1,7 @@
 """
 Geometry_analysis.py
 This module contains the geometry analysis project.
+Author: Emilie Guidez
 """
 import os
 import numpy
