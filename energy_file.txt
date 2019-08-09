@@ -1,0 +1,10 @@
+The energy of the molecule propanol is -193.128 kcal/mol.
+The energy of the molecule pentanol is -271.201 kcal/mol.
+The energy of the molecule decanol is -466.384 kcal/mol.
+The energy of the molecule methanol is -115.048 kcal/mol.
+The energy of the molecule octanol is -388.311 kcal/mol.
+The energy of the molecule ethanol is -154.091 kcal/mol.
+The energy of the molecule hexanol is -310.239 kcal/mol.
+The energy of the molecule heptanol is -349.274 kcal/mol.
+The energy of the molecule butanol is -232.166 kcal/mol.
+The energy of the molecule nonanol is -427.347 kcal/mol.
